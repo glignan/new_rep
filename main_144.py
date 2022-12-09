@@ -3,6 +3,7 @@
 print("Привет")
 print("Привет 2")
 print("Привет 3")
+print("olalala")
 
 
 
